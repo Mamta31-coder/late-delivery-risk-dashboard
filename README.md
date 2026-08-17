@@ -147,14 +147,13 @@ late-delivery-risk-dashboard/
 
 ```
 ---
-
 ## 📊 Dashboard Preview
 
 ### Risk Overview
 
 The Risk Overview page provides a high-level view of late-delivery risk and key business insights.
 
-![Risk Overview](./images/risk-overview.png)
+<img src="./images/risk-overview.png" alt="Risk Overview" width="100%">
 
 ---
 
@@ -162,7 +161,7 @@ The Risk Overview page provides a high-level view of late-delivery risk and key 
 
 This page highlights the major factors driving late-delivery risk and evaluates the performance of the predictive model.
 
-![Risk Drivers & Model Validation](./images/risk-drivers-model-validation.png)
+<img src="./images/risk-drivers-model-validation.png" alt="Risk Drivers & Model Validation" width="100%">
 
 ---
 
