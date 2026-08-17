@@ -154,15 +154,15 @@ late-delivery-risk-dashboard/
 
 The Risk Overview page provides a high-level view of late-delivery risk and key business insights.
 
-![Risk Overview](https://raw.githubusercontent.com/Mamta31-coder/late-delivery-risk-dashboard/main/images/risk-overview.png)
+![Risk Overview](./images/risk-overview.png)
 
 ---
 
 ### Risk Drivers & Model Validation
 
-This page highlights the major factors driving late-delivery risk and evaluates the performance of the predictive model using model validation metrics and feature importance analysis.
+This page highlights the major factors driving late-delivery risk and evaluates the performance of the predictive model.
 
-![Risk Drivers & Model Validation](https://raw.githubusercontent.com/Mamta31-coder/late-delivery-risk-dashboard/main/images/risk-drivers-model-validation.png)
+![Risk Drivers & Model Validation](./images/risk-drivers-model-validation.png)
 
 ---
 
