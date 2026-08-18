@@ -190,6 +190,37 @@ Business Insights
 
 ---
 
+## 🛠️ Skills Demonstrated
+
+- **Python** – Data cleaning, preprocessing, exploratory data analysis, and model development
+- **Pandas & NumPy** – Data manipulation, transformation, and numerical analysis
+- **Data Visualization** – Identifying trends, patterns, and relationships in supply-chain data
+- **Machine Learning** – Building and evaluating a predictive model for late-delivery risk
+- **Classification Metrics** – Evaluating model performance using classification metrics
+- **Feature Importance Analysis** – Identifying the key factors influencing late-delivery risk
+- **SQL** – Querying and analyzing supply-chain and order-level data
+- **Power BI** – Designing an interactive dashboard with KPIs, charts, filters, and business insights
+- **Business Analytics** – Translating analytical findings into actionable supply-chain insights
+- **Git & GitHub** – Version control, project organization, and documentation
+
+---
+
+## 📊 Dashboard Outcome
+
+The project transforms raw supply-chain and order-level data into an interactive Power BI dashboard that helps analyze and understand late-delivery risk.
+
+### Key Outcomes
+
+- Provides a **high-level overview of late-delivery risk** and important business indicators.
+- Identifies the **major factors influencing delivery delays** using feature importance analysis.
+- Presents **model performance and validation results** through an easy-to-understand dashboard.
+- Enables users to explore delivery-risk patterns through **interactive visualizations and filters**.
+- Converts technical analysis into **business-friendly insights** for supply-chain decision-making.
+- Helps highlight areas where organizations can focus on **proactive delivery-risk management**.
+- Combines **data analytics, machine learning, SQL, and Power BI** into an end-to-end analytical solution.
+
+---
+
 ## 💼 Business Value
 
 The dashboard transforms machine learning results into business-friendly insights that can support supply-chain and logistics analysis.
